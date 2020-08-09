@@ -25,7 +25,7 @@ Science from Georgia Tech.
 
 # Articles and papers
 
-- [Augmented Reality with Optical Flow and a Homography Transformation][[paper-cv-augmented-reality]]
+- [Augmented Reality with Optical Flow and a Homography Transformation][paper-cv-augmented-reality]
 <!-- Links -->
 
 [paper-cv-augmented-reality]: https://github.com/walintonc/cv/raw/master/augmented_reality_computer_vision.pdf
