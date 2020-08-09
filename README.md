@@ -8,22 +8,26 @@ Science from Georgia Tech.
 
 # Online handles
 
-- LinkedIn: https://www.linkedin.com/in/walintonc/
-- GitHub: https://github.com/walintonc/
-- Blog: https://medium.com/@walintonc
+- *LinkedIn*: https://www.linkedin.com/in/walintonc/
+- *GitHub*: https://github.com/walintonc/
+- *Blog*: https://medium.com/@walintonc
 
 # Contact information
 
-- For industry: walinton.cambronero {at} hpe.com
-- For academia: wcambronero3 {at} gatech.edu
-- For fun:      cambronerow {at} gmail.com
+- *For industry*: walinton.cambronero {at} hpe.com
+- *For academia*: wcambronero3 {at} gatech.edu
+- *For fun*:      cambronerow {at} gmail.com
 
 # Recent blog posts
 
 - [Reducing the Artificial Neural Network complexity by transforming your data][blog-ml-pokerhand-transformation]
 - [A good Machine Learning classifier’s accuracy metric for the Poker-hand dataset][blog-ml-pokerhand-metric]
 
+# Articles and papers
+
+- [Augmented Reality with Optical Flow and a Homography Transformation][[paper-cv-augmented-reality]]
 <!-- Links -->
 
+[paper-cv-augmented-reality]: https://github.com/walintonc/cv/raw/master/augmented_reality_computer_vision.pdf
 [blog-ml-pokerhand-metric]: https://medium.com/@walintonc/a-good-machine-learning-classifiers-accuracy-metric-for-the-poker-hand-dataset-44cc3456b66d
 [blog-ml-pokerhand-transformation]: https://medium.com/@walintonc/reducing-the-artificial-neural-network-complexity-by-transforming-your-data-37ff50d94562
