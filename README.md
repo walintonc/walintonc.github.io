@@ -1,10 +1,22 @@
-# Personal profile
+# Profile
 
 Embedded software engineer with over 10 years of experience in software development,
 with contributions to all the software life-cycle phases. From analysis to design,
 implementation, release, and maintenance. Strong knowledge in Linux-based O.S.,
 computer networks, and relational databases. Pursuing a master’s degree in Computer
 Science from Georgia Tech.
+
+# Online handles
+
+- LinkedIn: https://www.linkedin.com/in/walintonc/
+- GitHub: https://github.com/walintonc/
+- Blog: https://medium.com/@walintonc
+
+# Contact information
+
+- For industry: walinton.cambronero {at} hpe.com
+- For academia: wcambronero3 {at} gatech.edu
+- For fun:      cambronerow {at} gmail.com
 
 # Recent blog posts
 
