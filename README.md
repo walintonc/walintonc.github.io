@@ -1,69 +1,68 @@
 ## Profile
 Lead Software Engineer with 10+ years of experience. Specialized in Linux-based O.S., Embedded Software Development and Computer Networks. Extensive knowledge in Relational Databases, Machine Learning, Artificial Intelligence and Continuous Integration Strategies.
 
-## Education
-- Bachelor of Science in Engineering in Information Systems, [**National University of Costa Rica**](https://en.wikipedia.org/wiki/National_University_of_Costa_Rica)
-- Licentiate’s Degree in Computer Systems, [**Fidélitas University**](https://ufidelitas.ac.cr/office-of-global-strategies/)
-- Master of Science in Computer Science Student, [**Georgia Institute of Technology**](https://www.cc.gatech.edu/future/masters/mscs)
-
 ## Online handles
 - **LinkedIn**: [https://www.linkedin.com/in/walintonc/](https://www.linkedin.com/in/walintonc/)
 - **GitHub**: [https://github.com/walintonc/](https://github.com/walintonc/)
 - **Blog**: [https://towardsdatascience.com/@walintonc](https://medium.com/@walintonc) (**[Towards Data Science](https://towardsdatascience.com/)**)
 - **Web**: [https://walintonc.github.io/](https://walintonc.github.io/)
 
+## Education
+- Master of Science in Computer Science Student, [**Georgia Institute of Technology**](https://www.cc.gatech.edu/future/masters/mscs)
+- Licentiate’s Degree in Computer Systems, [**Fidélitas University**](https://ufidelitas.ac.cr/office-of-global-strategies/)
+- Bachelor of Science in Engineering in Information Systems, [**National University of Costa Rica**](https://en.wikipedia.org/wiki/National_University_of_Costa_Rica)
+
 ## Contact information
 - **For industry**: walinton.cambronero {at} hpe.com
 - **For academia**: wcambronero3 {at} gatech.edu
 - **For fun**:      walintonc {at} gmail.com
 
-## Lead Software Engineer at Aruba Networks
+
+## Experience
+**Lead Software Engineer and Product Owner at Aruba Networks**
+
 2015 – current
 
-**Role**: Lead Software Engineer, Expert Embedded Switch Software Architect and Product Owner.
+Novel and optimization projects for ArubaOS-CX (AOS-CX), a database-driven and cloud-oriented Network Operating System.
 
-**Focus**: Novel and optimization projects for ArubaOS-CX (AOS-CX), a database-driven and cloud-oriented Network Operating System.
+Responsibilities:
+- Research, design and integration of novel and optimization projects.
+- Identify system requirements, quantify risk and align with current business trends.
+- Contributions must improve time to market, reduce cost and increase customer satisfaction.
 
-**Responsibilities**:
-- Research, design, development and integration of novel and optimization projects
-- Identify system-level requirements, quantify risk and align with current business trends
-- Coordinate development across different geographies (Costa Rica, California, Bangalore)
-- Create and deliver technical training and documentation
-- Contributions must improve time to market, reduce cost and increase customer satisfaction
-
-**Recent work**:
+Recent work:
 - Details provided upon request
 
-**Internal conference articles and disclosures**:
+Internal conference articles and disclosures:
 - Details provided upon request
 
-## M.S. in Computer Science, Georgia Tech
-2017- current
+**Master of Science in Computer Science Graduate Student at Georgia Tech**
 
-**Papers**:
+2017 – current
+
+Third year graduate student. MSCS specialization in Machine Learning.
+
+Papers:
 - [Augmented Reality with Optical Flow and a Homography Transformation][paper-cv-augmented-reality]
 - [Poker Hand Dataset: A Machine Learning Analysis and a Practical Linear Transformation][paper-ml-poker-hand]
 
-**Recent blog posts**:
+Recent blog posts:
 - [Reducing the Artificial Neural Network complexity by transforming your data][blog-ml-pokerhand-transformation]
 - [A good Machine Learning classifier’s accuracy metric for the Poker-hand dataset][blog-ml-pokerhand-metric]
 
-**Schoolwork**:
-- **Supervised Learning** with Linear Regression, Q-learning, Decision Trees, and Bagging and Boosting for Stock Market analysis.
-- **Agent Planning** using **Search** (e.g. A*)
-- **Agent Localization** using Kalman and Particle Filters
-- **Image Processing** using estimation algorithms like RANSAC, **Image Classification** using AdaBoost, and **Image Segmentation** using Gaussian Mixtures
-- **Game Playing** algorithms such as Minimax with Alpha Pruning
-- **Bayesian Networks** and **Sampling** algorithms
-- **Constraint Satisfaction Problems** using techniques like Backtracking Search
-- **Bayesian Inference** algorithms like Gibbs Sampling and Metropolis-Hastings
-- **Data Analysis** and **Classification Problems** using Neural Networks and other classifiers such as Support Vector Machines
-- **Data Clustering** using **Unsupervised Learning** algorithms such as Expectation-Maximization and K-Nearest Neighbors (KNN)
-- **Data Dimensionality Reduction** with Principal Component Analysis, Independent Component Analysis or Randomized Projections
-- **Optimization Algorithms** such as Value and Policy Iteration, Randomized Hill Climbing, and Genetic Algorithms
-- **Signal Reconstruction and Recognition** using **Hidden Markov Models** (HMM)
+Relevant coursework:
+- Stock Market analysis with Machine Learning algorithms to predict stock price based on S&P 500 historical data
+- Solve robot localization, search and planning problems in discrete and continuous environments using A* and SLAM
+- Project Augmented Reality images on top of a video-stream using Optical Flow and a Homography
+- Object tracking and pedestrian detection in pre-recorded videos using Kalman and Particle Filters
+- Face-recognition using the Viola-Jones algorithms
+- AI agent that plays the Isolation  boardgame using minimax with alpha pruning for faster response times
+- Process noisy Morse code transmissions and output the most-likely encoded message using Hidden Markov Models
+- Used various randomized optimization algorithms to try to find the weights a multi-layer perceptron neural network
+- Transformed a hard-to-classify dataset using a linear-transformation to improve the Machine Learning classification accuracy
+- Other coursework includes Image Classification and Segmentation using Gaussian Mixtures, Bayesian Networks and Sampling algorithms for probabilistic inference, Data Analysis and Classification using well-known ML algorithms such as Support Vector Machines, Unsupervised Learning using Expectation-Maximization and KNN, Dimensionality Reduction with PCA and ICA, and Non-randomized Optimization algorithms such as Value and Policy Iteration.
 
-## Other education
+## Certifications and training
 - **Technical**: Cisco Certified Networking Associate (CCNA), Oracle 10g DBA
 - **Soft skills**: Resolve by Kepner & Tregoe, Lean Six-Sigma Green Belt
 - **Project Management**: [Project Management of Information Technology](https://www.tec.ac.cr/programas-academicos/maestria-gerencia-proyectos)
