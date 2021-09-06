@@ -44,8 +44,6 @@ Internal conference articles and disclosures:
 
 2021
 
-Third year graduate student. MSCS specialization in Machine Learning.
-
 Papers:
 - [Augmented Reality with Optical Flow and a Homography Transformation][paper-cv-augmented-reality]
 - [Poker Hand Dataset: A Machine Learning Analysis and a Practical Linear Transformation][paper-ml-poker-hand]
